@@ -9,11 +9,11 @@ ASA is a biologically interpretable virtual staining framework for translating H
 
 Unlike conventional image-to-image translation methods that rely purely on visual correspondence, ASA explicitly integrates:
 
-Antibody-aware global feature reweighting (ACRA)
+Antibody-conditioned Response Adjustment (ACRA)
 
-Spatially coherent chromogenic adaptation (SCA)
+Spatial Chromogenic Adaptation (SCA)
 
-Protein-related optical density supervision (PRDS)
+Patch-Replacement Dynamic Switching (PRDS)
 
 The framework is evaluated on paired H&E–IHC datasets and further validated through downstream protein expression classification.
 
